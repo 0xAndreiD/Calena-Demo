@@ -81,7 +81,9 @@ textarea.notice {
 
 .banner:before {
   /* background:linear-gradient(-47deg, #46cad7 0%, #21a2af 100%); */
-  background: linear-gradient(-47deg, #7c4fe0 0%, #4528dc 100%);
+  /* background: linear-gradient(-47deg, #7c4fe0 0%, #4528dc 100%); */
+  background: linear-gradient(-47deg, #7c4fe0d1 0%, #4528dcb8 100%);
+  
 }
 
 .btn,
