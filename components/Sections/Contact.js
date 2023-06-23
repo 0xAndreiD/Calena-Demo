@@ -40,23 +40,23 @@ const Contact = (props) => {
                             Office Location
                         </h5>
                         <p>
-                            94 Spring Creek Road<br />
-                            Bravington, Victoria 3821<br />
-                            Australia
+                            74 Sarah Ashbridge Ave<br />
+                            Toronto, Ontario M4L 3Y9<br />
+                            Canada
                         </p>
 
                         <h5>
                             <span className="icon icon-basic-smartphone"></span>
                             Phone Number
                         </h5>
-                        <p><a href="tel:16175723012">+61 419 343 086</a></p>
+                        <p><a href="tel:16175723012">+1 773 877 3589</a></p>
 
                         <h5>
                             <span className="icon icon-basic-mail"></span>
                             Email Address
                         </h5>
                         <p>
-                            <a href="mailto:email@sitename.com">geoff@calena.com.au</a>
+                            <a href="mailto:email@sitename.com">kennedy.leon.6121@gmail.com</a>
                         </p>
 
                         <h5>

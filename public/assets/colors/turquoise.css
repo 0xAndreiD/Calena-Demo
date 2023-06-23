@@ -127,5 +127,5 @@ blockquote {
 #zoom-in,
 #zoom-out,
 .team-member .team-social {
-  background-color: rgba(70, 202, 215, 0.85);
+  background-color: rgb(70 202 215 / 61%);
 }

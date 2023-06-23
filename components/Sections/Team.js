@@ -23,7 +23,7 @@ const Team = () => {
 				<Row>
 					
 					{/* <!-- Member 1 --> */}
-					<Col className="col-12 col-md-6 col-lg-3">
+					{/* <Col className="col-12 col-md-6 col-lg-3">
 						<div className="team-member res-margin">
 							<div className="team-image">
 								<img src="/images/team/member-1.jpg" alt="" />
@@ -41,7 +41,7 @@ const Team = () => {
 								<span className="position">CEO Co-Founder</span>
 							</div>
 						</div>
-					</Col>
+					</Col> */}
 					
 					{/* <!-- Member 2 --> */}
 					<Col className="col-12 col-md-6 col-lg-3">
@@ -59,7 +59,7 @@ const Team = () => {
 							</div>
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Kennedy Leon</a></h5>
-								<span className="position">CTO Co-Founder</span>
+								{/* <span className="position">Founder</span> */}
 							</div>
 						</div>
 					</Col>	
@@ -80,7 +80,7 @@ const Team = () => {
 							</div>
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Jessica Jung</a></h5>
-								<span className="position">Creative Designer</span>
+								{/* <span className="position">Creative Designer</span> */}
 							</div>
 						</div>
 					</Col>
@@ -101,7 +101,27 @@ const Team = () => {
 							</div>
 							<div className="team-details">
 								<h5 className="title"><a href="/worker">Ruby Rose</a></h5>
-								<span className="position">CMO</span>
+								{/* <span className="position">CMO</span> */}
+							</div>
+						</div>
+					</Col>
+
+					<Col className="col-12 col-md-6 col-lg-3">
+						<div className="team-member">
+							<div className="team-image">
+								<img src="/images/team/member-5.jpg" alt="" />
+								<div className="team-social">
+									<div className="team-social-inner">
+										<a href="#"><i className="fab fa-twitter"></i></a>
+										<a href="#"><i className="fab fa-facebook-f"></i></a>
+										<a href="#"><i className="fab fa-linkedin-in"></i></a>
+										<a href="#"><i className="fab fa-dribbble"></i></a>
+									</div>
+								</div>
+							</div>
+							<div className="team-details">
+								<h5 className="title"><a href="/worker">Li Bingbing</a></h5>
+								{/* <span className="position">CMO</span> */}
 							</div>
 						</div>
 					</Col>
